@@ -7,6 +7,8 @@
 3. Llamar al restaurante de preferencia
 4. Consultar precios u ofertas 
 5. Brindar datos 
-6.Recepción de comida 
-7.Pago 
-8.fin 
+6. Recepción de comida 
+7. Pago 
+8. fin 
+
+![alt text](http://i63.tinypic.com/2i8gfmh.jpg)
